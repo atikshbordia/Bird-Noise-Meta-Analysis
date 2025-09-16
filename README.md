@@ -1,4 +1,3 @@
-[1752715960425_README_meta_analysis (8).md](https://github.com/user-attachments/files/22355498/1752715960425_README_meta_analysis.8.md)
 # Meta-Analysis: Bird Responses to Noise Pollution
 
 ## Overview
